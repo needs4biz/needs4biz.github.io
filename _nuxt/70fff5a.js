@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{777:function(n,t,e){"use strict";e.r(t);var l={layout:"DashboardLayout"},o=e(10),component=Object(o.a)(l,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("no-ssr",[t("big-calendar")],1)],1)}),[],!1,null,null,null);t.default=component.exports}}]);
